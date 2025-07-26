@@ -20,7 +20,7 @@ Empowering learners and innovators by building real-world, open-source projects 
 
 | Project Name           | Domain                         | Description                                       |
 |------------------------|--------------------------------|---------------------------------------------------|
-| 🌙 Luna Robot          | Embedded, Robotics             | Autonomous robot integrating sensors & actuators |
+| 🤖  Luna Robot          | Embedded, Robotics             | Autonomous robot integrating sensors & actuators |
 | ♿ Gen IoT Wheel Chair | IoT, Assistive Tech            | Smart wheelchair with voice & gesture control    |
 | 🏠 Home Automation     | IoT, Full Stack, Edge          | Control home devices using apps/voice/AI         |
 | 🌱 Greenhouse          | IoT, RTOS, Cloud               | Smart greenhouse with real-time sensor control   |
